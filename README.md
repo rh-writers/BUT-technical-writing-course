@@ -27,6 +27,7 @@
 * A day in the life of a technical writer
 * Types of technical documentation and their specifics
 * Target audience, grading, and using AI tools in this course
+  
 **Style I:**
 * Comparison of writing styles, objectives of technical writing style: Accessibility, Readability, Searchability
 
@@ -34,6 +35,7 @@
 * Minimalism, modularity and structure
 * User focus and information flow
 * Writing for global audiences
+
 **Style guides:**
 * Why and how they are useful, various major style guides for technical writing (IBM, Microsoft, Google), comparison, common principles, applying them in practice
 
@@ -47,11 +49,13 @@
 * Product knowledge, overview of the development cycle and the documentation’s place in it
 * Collaborating with product owners, engineers, QE, support teams
 * Content strategy, release management, planning for tech writing, how to create technical content
+
 **Soft skills:**
 * Empathy, ethics, cultural awareness, communication skills, curiosity, proactivity, editorial skills, time management
 
 6. **Usability:** 
 * Real-life usability of documented products
 * Designing user experience, 10 usability heuristics, practical applicability of documentation
+
 **Large language models and generative tools:**
 * How they (don’t) work in technical writing, how they can be useful to writers, risks, practice
