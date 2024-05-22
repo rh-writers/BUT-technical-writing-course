@@ -18,6 +18,8 @@
 
 ### Information Only for BUT Students - Spring 2024:
 
+For information about assessment, homework and grading, see Information for [BUT students - spring 2024](BUT-students-spring-2024.pdf).
+
 ## Lecture Overview:
 The lecture overview is only tentative.
 
