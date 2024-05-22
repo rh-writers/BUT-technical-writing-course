@@ -28,7 +28,7 @@
 * Types of technical documentation and their specifics
 * Target audience, grading, and using AI tools in this course
   
-**Style I:**
+- **Style I:**
 * Comparison of writing styles, objectives of technical writing style: Accessibility, Readability, Searchability
 
 3. **Style II:** 
@@ -36,7 +36,7 @@
 * User focus and information flow
 * Writing for global audiences
 
-**Style guides:**
+- **Style guides:**
 * Why and how they are useful, various major style guides for technical writing (IBM, Microsoft, Google), comparison, common principles, applying them in practice
 
 4. **Tools:** 
