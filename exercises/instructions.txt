@@ -1,0 +1,2 @@
+Inside this directory, create a subdirectory named `firstname-lastname, and add your files`.
+
