@@ -33,6 +33,7 @@ The lecture overview is only tentative.
 
 ### Style I:
 * Comparison of writing styles, objectives of technical writing style: Accessibility, Readability, Searchability
+* [Homework](https://docs.google.com/document/d/1KeWNf2aSLUjhrK8tSkzvPyPnr8dmKTuKyD-smRAq59Y/copy)
 
 ### 2. Style II:
 * Minimalism, modularity and structure
