@@ -29,6 +29,7 @@ The lecture overview is only tentative.
 * A day in the life of a technical writer
 * Types of technical documentation and their specifics
 * Target audience, grading, and using AI tools in this course
+* [in-class assignment](https://docs.google.com/document/d/1Es6XcSPJsZ0ZY8YX4bwlJ0uXusIu3CumznBLx5JML1w/copy)
 
 ### Style I:
 * Comparison of writing styles, objectives of technical writing style: Accessibility, Readability, Searchability
