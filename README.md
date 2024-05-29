@@ -48,7 +48,7 @@ The lecture overview is only tentative.
 * Introduction to markup languages and text editors
 * Creating and generating documentation using Markdown
 * Introduction to Git, setting up and using Git command line and GitHub
-* [In-class assignment](exercises/In-class assignment-tooling-I.pdf)
+* [In-class assignment](https://drive.google.com/file/d/14EFQs3GPoWSUBZqsGJbZ0pDEmvcmbh-C/view?usp=sharing)
 
 ### 4. Hard skills:
 * Definition of hard skills in technical writing, why we need them
